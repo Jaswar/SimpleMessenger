@@ -5,7 +5,7 @@ A simple client-server messenger.
 
 In order to setup the project you will need to take the following steps:
 - Change the IP adress in client_socket.py file to your public adress of the server (change the __HOST variable),
-- If your server will be accessed via a router, setup port forwarding to redirect traffic on port 6889 to your server machine.
+- If your server will be accessed via a router, setup port forwarding to redirect traffic on port 6889 to your server machine to port 6890.
 
 # Run
 
