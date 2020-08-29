@@ -3,7 +3,7 @@ import pickle
 
 class ClientSocket(object):
 
-    __HOST = 'YOUR PUBLIC IP ADDRESS'
+    __HOST = 'YOUR SERVERS PUBLIC IP ADDRESS'
     __PORT = 6889
 
     def __init__(self):
