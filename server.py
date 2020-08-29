@@ -4,7 +4,7 @@ import _thread
 
 class Server(object):
 
-    HOST = '192.168.10.109'
+    HOST = ''
     PORT = 6890
 
     def __init__(self):
